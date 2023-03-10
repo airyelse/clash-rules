@@ -1,1 +1,1 @@
-[Fork From](https://github.com/Loyalsoldier/clash-rules)
+[forked from Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)
